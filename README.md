@@ -10,8 +10,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
  
 ## :hourglass: Project Demo
 
-![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/demo.gif)
-
+![Demo 5](images/demo.gif)
 
 <p align="center"><img src="https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/validation.png" width="700" height="400"></p>
 
@@ -87,19 +86,5 @@ $ python detect_mask_video.py
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/plot.png)
 
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: vedantsahai18@gmail.com
-
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [COVID-Face-Mask-Detection](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
-
 ## :heart: Owner
 Made with :heart:&nbsp;  by [ Vedant Sahai](https://github.com/vedantsahai18)
-
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
-
-## :eyes: License
-MIT © [ Vedant Sahai](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/LICENSE)
