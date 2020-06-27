@@ -10,7 +10,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
  
 ## :hourglass: Project Demo
 
-![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/demo.gif)
+![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/Demo.gif)
 
 <p align="center"><img src="https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/validation.png" width="700" height="400"></p>
 
