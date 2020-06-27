@@ -10,7 +10,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
  
 ## :hourglass: Project Demo
 
-![Demo 5](images/demo.gif)
+![](images/demo.gif)
 
 <p align="center"><img src="https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/validation.png" width="700" height="400"></p>
 
@@ -81,7 +81,7 @@ $ python detect_mask_video.py
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
-![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/evaluate.png)
+![](images/evaluate.png)
 
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/plot.png)
