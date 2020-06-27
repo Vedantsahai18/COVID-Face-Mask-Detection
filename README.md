@@ -81,7 +81,7 @@ $ python detect_mask_video.py
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
-![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/evaluate.png)
+![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/evaluate.PNG)
 
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/plot.png)
