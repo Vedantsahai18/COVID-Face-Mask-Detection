@@ -14,7 +14,7 @@ Face Detetction on a live video 👇👇👇👇👇👇
 
 <p align="center"><img src="https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/Demo.gif" width="720" height="480"></p>
 
-Face Detetction on a input image 👇👇👇👇👇👇
+Face Detetction on an input image 👇👇👇👇👇👇
 
 <p align="center"><img src="https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/validation.png" width="720" height="480"></p>
 
