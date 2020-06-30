@@ -90,5 +90,14 @@ $ python detect_mask_video.py
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/vedantsahai18/COVID-Face-Mask-Detection/blob/master/images/plot.png)
 
+## 📜📜 TODO
+
+* Gather actual images (rather than artificially generated images) of people wearing masks.
+
+* Gather images of faces that may “confuse” our classifier into thinking the person is wearing a mask when in fact they are not.
+
+* Consider training a dedicated two-class object detector rather than a simple image classifier.
+
+
 ## :heart: Owner
 Made with :heart:&nbsp;  by [ Vedant Sahai](https://github.com/vedantsahai18)
