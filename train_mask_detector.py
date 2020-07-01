@@ -52,7 +52,7 @@ labels = []
 for imagePath in imagePaths:
 	# extract the class label from the filename
 	label = imagePath.split(os.path.sep)[-2]
-
+	print(label)
 	# load the input image (224x224) and preprocess it
 	image = load_img(imagePath, target_size=(224, 224))
 	image = img_to_array(image)
