@@ -34,7 +34,7 @@ This system can therefore be used in real-time applications which require face-m
 
 ## :file_folder: Dataset
 
-Please download the dataset in the dataset folder.Th link is as follows- [Click to Download](https://drive.google.com/drive/folders/1o3L0lNbhU3Vq8HjweHTT6VINbEL7ejuj?usp=sharing)
+Please download the dataset in the dataset folder and unzip inside it .The link is as follows- [Click to Download](https://drive.google.com/drive/folders/1o3L0lNbhU3Vq8HjweHTT6VINbEL7ejuj?usp=sharing)
 
 This dataset consists of __3835 images__ belonging to two classes:
 *	__with_mask: 7130 images__
